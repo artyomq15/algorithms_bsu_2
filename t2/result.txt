@@ -1,0 +1,2 @@
+max cost: 14
+positions: [1, 4]
